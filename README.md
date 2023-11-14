@@ -1,3 +1,2 @@
 # TIP_SpatialReasoningTransformer
-
-## Coming soon
+Coming soon
